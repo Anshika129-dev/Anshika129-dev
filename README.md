@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Anshika!
 
-<!--
-**Anshika129-dev/Anshika129-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BA Student | Web Development Enthusiast | Computer Applications**
 
-Here are some ideas to get you started:
+I am currently pursuing **Bachelor of Arts (BA) from Delhi University**.  
+I have also completed **ADCA (Advanced Diploma in Computer Applications)** from **IFDA Institute**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+- 🎓 **Bachelor of Arts (BA)** — Delhi University
+  - Currently Pursuing
+- 💻 **ADCA (Advanced Diploma in Computer Applications)** — IFDA Institute
+  - Completed
+
+## 💻 Skills
+
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🧾 Accounting with Tally Prime
+- 📊 MS Office
+
+## 🚀 Projects
+
+### 🛍️ Shop Easy Web Design
+A web design project focused on creating a simple and user-friendly shopping website interface.
+
+### 🪪 ID Card Generator Using JavaScript
+A JavaScript-based project that generates ID cards dynamically using user-provided information.
+
+### 📝 Registration Form
+A registration form created using **HTML, CSS, and JavaScript**, focusing on design and user interaction.
+
+## 🌱 Currently Learning
+
+- Web Development
+- JavaScript
+- Frontend Development
+- New Computer Technologies
+
+## 👩‍💻 About Me
+
+- **Name:** Anshika
+- **Course:** BA
+- **University:** Delhi University
+- **Computer Qualification:** ADCA
+- **Institute:** IFDA Institute
+- **Interests:** Web Development & Computer Applications
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
